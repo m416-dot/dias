@@ -1,0 +1,22 @@
+# Nossa Cabana — Vitório & Vitória
+
+Arquivos do aplicativo web de contagem regressiva para 20 de novembro de 2026.
+
+## Publicação gratuita usando o iPhone
+1. Baixe e extraia `nossa-cabana-site.zip` no app Arquivos.
+2. Entre em https://github.com e crie uma conta ou entre na sua.
+3. Crie um repositório público chamado `nossa-cabana`.
+4. Abra o repositório e toque em **Add file** → **Upload files**.
+5. Envie os quatro arquivos extraídos: `index.html`, `manifest.json`, `icon.svg` e `sw.js`. Confirme em **Commit changes**.
+6. No repositório, abra **Settings** → **Pages**.
+7. Em **Build and deployment**, escolha **Deploy from a branch**; selecione `main` e a pasta `/(root)`; toque em **Save**.
+8. Aguarde alguns minutos. A página ficará disponível em `https://SEU-USUARIO.github.io/nossa-cabana/`. Substitua `SEU-USUARIO` pelo seu nome de usuário do GitHub.
+9. Envie o link à Vitória pelo WhatsApp.
+
+## Adicionar à tela inicial no iPhone
+1. Abra o link publicado no Safari (não dentro do navegador do WhatsApp).
+2. Toque em **Compartilhar** (quadrado com seta para cima).
+3. Role a lista e toque em **Adicionar à Tela de Início**.
+4. Se aparecer a opção **Abrir como App**, deixe ativada e toque em **Adicionar**.
+
+A contagem regressiva termina no começo do dia 20/11/2026, no horário de Fortaleza (UTC−3).
